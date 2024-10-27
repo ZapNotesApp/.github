@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://github.com/Zap-Notes-App/Zap/blob/main/Zap/Assets.xcassets/ZapLogo.imageset/logo.jpeg?raw=true" alt="Zap Logo" width="120"/>
-</p>
-
 # Zap Notes Organization
 
 Welcome! Zap Notes creates AI-powered tools to make note-taking faster and smarter.
