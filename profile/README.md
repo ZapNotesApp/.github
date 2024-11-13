@@ -2,7 +2,8 @@
 
 Welcome! Zap Notes creates AI-powered tools to make note-taking faster and smarter.
 
-[TestFlight Link](https://testflight.apple.com/join/pjpeTkap)
+## Test Zap Notes App Here!
+**[TestFlight Link](https://testflight.apple.com/join/pjpeTkap)**
 
 ## Projects
 
