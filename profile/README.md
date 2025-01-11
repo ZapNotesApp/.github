@@ -3,14 +3,14 @@
 Welcome! Zap Notes creates AI-powered tools to make note-taking faster and smarter.
 
 ## Test Zap Notes App Here!
-**[TestFlight Link](https://testflight.apple.com/join/pjpeTkap)**
+**TestFlight Link is no longer available.** The app is currently preparing for the App Store release. Stay tuned for updates!
 
 ## Projects
 
-- **[Zap App](https://github.com/ZapNotesApp/Zap)**: Our main iOS app.
-- **[Zap Backend](https://github.com/ZapNotesApp/Zap-backend)**: Backend AI services for the Zap app.
+- **[Zap Notes App](https://github.com/ZapNotesApp/ZapNotesApp)**: Our main iOS app.
+- **[Zap Backend](https://github.com/ZapNotesApp/ZapNotesApp-backend)**: Backend AI services for the Zap Notes app.
 - **[Zap Auth Backend](https://github.com/ZapNotesApp/Zap-auth-backend)**: Backend auth service (coming soon).
-- **[Zap Website](https://github.com/ZapNotesApp/Zap-website)**: The official site, [zap-notes.com](http://zap-notes.com).
+- **[Zap Website](https://github.com/ZapNotesApp/ZapNotesApp-website)**: The official site, [zap-notes.com](http://zap-notes.com).
 
 ## Commit Message Guidelines
 
@@ -55,4 +55,4 @@ This project is licensed under the [GNU General Public License v3.0](https://www
 
 ## Contact
 
-Contact **Zigao Wang** at a@zigao.wang or open an issue [here](https://github.com/Zap-Notes-App/Zap/issues).
+Contact **Zigao Wang** at a@zigao.wang or open an issue [here](https://github.com/ZapNotesApp/ZapNotesApp/issues).
