@@ -11,7 +11,7 @@ Welcome! Zap Notes creates AI-powered tools to make note-taking faster and smart
 ## Projects
 
 - **[Zap Notes App](https://github.com/ZapNotesApp/ZapNotesApp)**: Our main iOS app.
-- **[Zap Backend](https://github.com/ZapNotesApp/ZapNotesApp-backend)**: Backend AI services for the Zap Notes app.
+- **[Zap Backend](https://github.com/ZigaoWang/ZapNotesApp-backend)**: Backend AI services for the Zap Notes app.
 - **[Zap Auth Backend](https://github.com/ZapNotesApp/Zap-auth-backend)**: Backend auth service (prototype: coming soon).
 - **[Zap Website](https://github.com/ZapNotesApp/Zap-website)**: The official site, [zap-notes.com](http://zap-notes.com).
 
